@@ -473,7 +473,7 @@ section{
     color:black;
 }
 
-.reviews .box-container .box .content .stars .fa-solid{
+.reviews .box-container .box .content .stars .fa-solid , .reviews .box-container .box .content .stars .fa-regular{
     height:4rem;
     width:4rem;
     line-height: 4rem;
@@ -483,20 +483,6 @@ section{
     background:#0c72c6;
     color:black;
 }
-
-.reviews .box-container .box .content .stars .fa-regular{
-    height:4rem;
-    width:4rem;
-    line-height: 4rem;
-    border-radius: 50%;
-    font-size: 2rem;
-    margin-bottom: 1rem;
-    background:#0c72c6;
-    color:black;
-}
-
-
-
 
 .reviews .box-container .box h3{
     font-size: 2.2rem;
